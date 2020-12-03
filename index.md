@@ -63,7 +63,9 @@ By building web / mobile application based on MDB-JS board you will offer these 
 * 25W power supply to power most raspberry PI boards up to RPI 4
 * 5V to 24V input supply range at 5A.
 * MDB v4.3 protocol compatible
-* level shift to 3.3V to match raspberry PI pin level. 
+* Level shift to 3.3V to match raspberry PI pin level. 
+* Comunications Ports : UART / SPI / I2C
+* Data Exchange format: JSON
 
 
 
