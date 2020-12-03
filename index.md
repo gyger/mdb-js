@@ -114,18 +114,18 @@ JSON object is created in JavaScript to include _Selection-request_ with paramet
 
 ```json
 {
- "mdb": {
- "cmd": "selection",
- "subcmd": "request",
-     "data": {
-         "funds": "10",
-         "pymntmediaID": "0",
-         "pymntmediaType": "norm",
-         "pymntdata": "0",
-         "item-num": "12",
-         "pymnt-opt": "norefund"
-         }
-     }
+  "mdb": {
+    "cmd": "selection",
+    "subcmd": "request",
+    "data": {
+      "funds": "10",
+      "pymntmediaID": "0",
+      "pymntmediaType": "norm",
+      "pymntdata": "0",
+      "item-num": "12",
+      "pymnt-opt": "norefund"
+    }
+  }
 }
 ```
 
